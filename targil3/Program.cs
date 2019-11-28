@@ -10,6 +10,7 @@ namespace targil3
     {
         static void Main(string[] args)
         {
+            //gabi the king
         }
     }
 }
